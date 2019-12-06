@@ -1,0 +1,7 @@
+{
+    "vscode.tsc.compiler.alertTSConfigChanges": "never",
+    "files.exclude": {
+        "**/.e2e": true,
+        "**/.vscode": true
+    }
+}
